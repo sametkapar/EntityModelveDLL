@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAPAR\\source\\repos\\EntityModelVedDLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB561C9-689F-4968-BA93-B06E6A03D4CA}|EntityModelVedDLL\\EntityModelVedDLL.csproj|c:\\users\\kapar\\source\\repos\\entitymodelveddll\\entitymodelveddll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB561C9-689F-4968-BA93-B06E6A03D4CA}|EntityModelVedDLL\\EntityModelVedDLL.csproj|solutionrelative:entitymodelveddll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0E43E9-0527-47C2-81DD-D60F6BE9A66B}|VeriErisimKatmani\\VeriErisimKatmani.csproj|c:\\users\\kapar\\source\\repos\\entitymodelveddll\\verierisimkatmani\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0E43E9-0527-47C2-81DD-D60F6BE9A66B}|VeriErisimKatmani\\VeriErisimKatmani.csproj|solutionrelative:verierisimkatmani\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0E43E9-0527-47C2-81DD-D60F6BE9A66B}|VeriErisimKatmani\\VeriErisimKatmani.csproj|c:\\users\\kapar\\source\\repos\\entitymodelveddll\\verierisimkatmani\\veriyollari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0E43E9-0527-47C2-81DD-D60F6BE9A66B}|VeriErisimKatmani\\VeriErisimKatmani.csproj|solutionrelative:verierisimkatmani\\veriyollari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kategori.cs",
+              "DocumentMoniker": "C:\\Users\\KAPAR\\source\\repos\\EntityModelVedDLL\\VeriErisimKatmani\\Kategori.cs",
+              "RelativeDocumentMoniker": "VeriErisimKatmani\\Kategori.cs",
+              "ToolTip": "C:\\Users\\KAPAR\\source\\repos\\EntityModelVedDLL\\VeriErisimKatmani\\Kategori.cs",
+              "RelativeToolTip": "VeriErisimKatmani\\Kategori.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T11:57:42.662Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAPAR\\source\\repos\\EntityModelVedDLL\\EntityModelVedDLL\\Program.cs",
+              "RelativeDocumentMoniker": "EntityModelVedDLL\\Program.cs",
+              "ToolTip": "C:\\Users\\KAPAR\\source\\repos\\EntityModelVedDLL\\EntityModelVedDLL\\Program.cs",
+              "RelativeToolTip": "EntityModelVedDLL\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T11:44:54.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VeriYollari.cs",
+              "DocumentMoniker": "C:\\Users\\KAPAR\\source\\repos\\EntityModelVedDLL\\VeriErisimKatmani\\VeriYollari.cs",
+              "RelativeDocumentMoniker": "VeriErisimKatmani\\VeriYollari.cs",
+              "ToolTip": "C:\\Users\\KAPAR\\source\\repos\\EntityModelVedDLL\\VeriErisimKatmani\\VeriYollari.cs",
+              "RelativeToolTip": "VeriErisimKatmani\\VeriYollari.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T12:34:09.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

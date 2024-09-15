@@ -1,0 +1,10 @@
+C:\Users\KAPAR\source\repos\EntityModelVedDLL\EntityModelVedDLL\bin\Debug\EntityModelVedDLL.exe.config
+C:\Users\KAPAR\source\repos\EntityModelVedDLL\EntityModelVedDLL\bin\Debug\EntityModelVedDLL.exe
+C:\Users\KAPAR\source\repos\EntityModelVedDLL\EntityModelVedDLL\bin\Debug\EntityModelVedDLL.pdb
+C:\Users\KAPAR\source\repos\EntityModelVedDLL\EntityModelVedDLL\bin\Debug\VeriErisimKatmani.dll
+C:\Users\KAPAR\source\repos\EntityModelVedDLL\EntityModelVedDLL\bin\Debug\VeriErisimKatmani.pdb
+C:\Users\KAPAR\source\repos\EntityModelVedDLL\EntityModelVedDLL\obj\Debug\EntityModelVedDLL.csproj.AssemblyReference.cache
+C:\Users\KAPAR\source\repos\EntityModelVedDLL\EntityModelVedDLL\obj\Debug\EntityModelVedDLL.csproj.CoreCompileInputs.cache
+C:\Users\KAPAR\source\repos\EntityModelVedDLL\EntityModelVedDLL\obj\Debug\EntityMo.2ECC24F4.Up2Date
+C:\Users\KAPAR\source\repos\EntityModelVedDLL\EntityModelVedDLL\obj\Debug\EntityModelVedDLL.exe
+C:\Users\KAPAR\source\repos\EntityModelVedDLL\EntityModelVedDLL\obj\Debug\EntityModelVedDLL.pdb
